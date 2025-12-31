@@ -1,7 +1,7 @@
 # Sentiment Analysis Project
 
 This project focuses on performing **Sentiment Analysis** on textual data using **Machine Learning techniques**.  
-The model classifies input text into **Positive**, **Negative**, or **Neutral** sentiments.
+The model classifies input text into **Positive** or **Negative**
 
 ---
 
