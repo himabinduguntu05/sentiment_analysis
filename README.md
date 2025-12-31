@@ -31,10 +31,6 @@ In this project, text data is preprocessed, vectorized, and analyzed using machi
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## ⚙️ Workflow
 1. Data Loading
 2. Data Cleaning & Preprocessing
